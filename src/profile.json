@@ -1,0 +1,13 @@
+{
+    "name": "Test Plugin",
+    "displayName": "Test Plugin",
+    "description": "A test plugin to see if the connection works!",
+    "documentation": "",
+    "version": "0.1.0-beta.8",
+    "methods": [
+     "undefined"
+    ],
+    "kind": "none",
+    "icon": "https://raw.githubusercontent.com/alvasi/remix-test-plugin/master/src/assets/logo.svg",
+    "location": "sidePanel"
+   }
